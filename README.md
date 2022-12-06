@@ -22,8 +22,6 @@ On this site I would like to share my all gained experience from personal studie
 # Taste cases <br>
 
 [my work: Taste cases](https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp=sharing)<br>
- [Pisanie przypadków testowych na podstawie własnych doświadczeń](https://docs.google.com/spreadsheets/d/16COdGQQfwThK76CaQQtvQNyTWjrp5gBTCHjcr5HlxRs/edit?usp=sharing)<br>
- 
  
 
 # Tools 
@@ -65,9 +63,10 @@ On this site I would like to share my all gained experience from personal studie
 
 # Groups on Facebook
 
-<li>Creativity</li>
- <li>Empathy</li>
+<li>Dare IT Community</li>
+ <li>The Test Tribe Software Testing Community</li>
 <li>Effective Communication</li>
- <li>Adaptability</li>
- <li>Motivated</li>
+ <li>Programuj, dziewczyno!</li>
+ <li>Testowanie oprogramowania</li>
+ <li>Testowanie oprogramowania - Materiały | Porady</li>
   </ul>
