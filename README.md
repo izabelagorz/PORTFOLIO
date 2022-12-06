@@ -43,7 +43,6 @@ On this site I would like to share my all gained experience from personal studie
 
  <ul>
  <li>SQL</li>
-<li>DevTools</li>
  <li>Software testing</li>
  <li>Creating test cases</li>
  <li>Reporting bugs</li>
@@ -54,11 +53,11 @@ On this site I would like to share my all gained experience from personal studie
 # Soft skills
 
 <ul>
-  <li>Creativity</li>
- <li>Empathy</li>
-<li>Effective Communication</li>
- <li>Adaptability</li>
- <li>Motivated</li>
+  <li>Creativity 👩‍🎨</li>
+ <li>Empathy 🥰</li>
+<li>Effective Communication 🤝</li>
+ <li>Adaptability 🧩 </li>
+ <li>Motivated 💪</li>
   </ul>
 
 # Groups on Facebook
