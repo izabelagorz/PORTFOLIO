@@ -51,4 +51,14 @@ On this site I would like to share my all gained experience from personal studie
  <li>CSS</li>
   </ul>
 
+# Soft skills
+
+<ul>
+  <li>Creativity</li>
+ <li>Empathy</li>
+<li>Effective Communication</li>
+ <li>Adaptability</li>
+ <li>Motivated</li>
+  </ul>
+
 # Courses
