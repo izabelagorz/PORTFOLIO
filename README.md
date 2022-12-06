@@ -70,3 +70,5 @@ On this site I would like to share my all gained experience from personal studie
  <li>Testowanie oprogramowania</li>
  <li>Testowanie oprogramowania - Materiały | Porady</li>
   </ul>
+
+# Certificates
