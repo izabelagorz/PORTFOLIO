@@ -1,9 +1,8 @@
 # About me
 ## *Hi, my name is Iza.*  
 Recently I have started to interest of software testing.🕵️‍
-I am a master of Social Media in Management.<br> Graduated from Jagiellonian University. 📖 
+I am a master of Social Media in Management from Jagiellonian University. 📖 
 My previous work as a graphic designer 🎨 lear me how important is every detail in project.🔎
-
 
 My goal is to develop testing knowledge and technical skills. 🪳
 On this site I would like to share my all gained experience from personal studies and researches.💪
