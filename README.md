@@ -7,7 +7,7 @@ My previous work as a graphic designer 🎨 lear me how important is every detai
 My goal is to develop testing knowledge and technical skills. 🪳
 On this site I would like to share my all gained experience from personal studies and researches.💪
 
-👉 # [LinkedIn](https://www.linkedin.com/in/izabelagorz/)
+👉 [LinkedIn](https://www.linkedin.com/in/izabelagorz/)
 
 # Bug Report <br>
 
