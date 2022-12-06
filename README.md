@@ -7,6 +7,8 @@ My previous work as a graphic designer 🎨 lear me how important is every detai
 My goal is to develop testing knowledge and technical skills. 🪳
 On this site I would like to share my all gained experience from personal studies and researches.💪
 
+👉 # [LinkedIn](https://www.linkedin.com/in/izabelagorz/)
+
 # Bug Report <br>
 
  [REPORT](https://docs.google.com/document/d/1hk10oz3M5G8V2kedF53JsuEHQGy_1ZaIR7jWWBwVqRk/edit?usp=sharing) 
@@ -19,9 +21,9 @@ On this site I would like to share my all gained experience from personal studie
 
 # Taste cases <br>
 
-[Pisanie przypadków testowych na podstawie User Story](https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp=sharing)<br>
+[TC](https://docs.google.com/spreadsheets/d/13f2iqdep8BKwsPF7rjy1svQQyzAo3J7GURKwKrdvizE/edit?usp=sharing)<br>
  [Pisanie przypadków testowych na podstawie własnych doświadczeń](https://docs.google.com/spreadsheets/d/16COdGQQfwThK76CaQQtvQNyTWjrp5gBTCHjcr5HlxRs/edit?usp=sharing)<br>
- [Pisanie przypadków testowych na podstawie własnych doświadczeń](https://docs.google.com/document/d/164lum8wfixR88mhimARGnkl_FtmL5E5n7eGDKlgOF60/edit?usp=sharing)<br>
+ 
  
 
 # Tools 
@@ -61,4 +63,11 @@ On this site I would like to share my all gained experience from personal studie
  <li>Motivated</li>
   </ul>
 
-# Courses
+# Groups on Facebook
+
+<li>Creativity</li>
+ <li>Empathy</li>
+<li>Effective Communication</li>
+ <li>Adaptability</li>
+ <li>Motivated</li>
+  </ul>
