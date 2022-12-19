@@ -14,9 +14,9 @@ On this site I would like to share my all gained experience from personal studie
  [my work: REPORT](https://docs.google.com/document/d/1hk10oz3M5G8V2kedF53JsuEHQGy_1ZaIR7jWWBwVqRk/edit?usp=sharing) 
  
 
-# Bug discription <br>
+# Bug description <br>
 
-[my work: BUG DISCRIPTION](https://docs.google.com/spreadsheets/d/1_b4XZgE24yGXYqKL3lu7vxpsy__a_yBAma0oS6CHfto/edit?usp=sharing)🕵️‍♀️
+[my work: BUG DESCRIPTION](https://docs.google.com/spreadsheets/d/1_b4XZgE24yGXYqKL3lu7vxpsy__a_yBAma0oS6CHfto/edit?usp=sharing)🕵️‍♀️
 
 
 # Taste cases <br>
